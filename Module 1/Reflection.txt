@@ -1,0 +1,12 @@
+In this module, I also worked on collaborating on the timeline of computer vision development with my group members was a truly enriching experience. It provided a unique opportunity to learn from diverse perspectives and approaches to problem-solving.
+
+One of the key takeaways from this project was the importance of effective communication and teamwork. By sharing ideas, discussing different interpretations of historical events, and coordinating our efforts, we were able to create a comprehensive and informative timeline.
+
+Moreover, working in a group allowed me to develop valuable skills in time management, task allocation, and conflict resolution. We learned to balance individual contributions with collective goals, ensuring that everyone's voice was heard and valued.
+
+Later in the course, I had a lab related to this module. Through this lab, I gained a deeper appreciation for the significant role computer vision has played in revolutionizing the field of medicine. It was fascinating to delve into the historical context of image analysis, from its early beginnings to the cutting-edge techniques employed today.
+
+One of the most striking insights I gained was the transformative power of computer vision in medical diagnosis. By automating the analysis of medical images, such as X-rays, MRIs, and CT scans, computer vision algorithms can detect anomalies and patterns that may be difficult for human experts to discern. This increased precision and efficiency has the potential to improve patient outcomes and reduce diagnostic errors.    
+
+However, I also recognize the ethical implications of using AI in healthcare. It is crucial to ensure that these technologies are developed and deployed responsibly, with careful consideration of factors such as bias, privacy, and transparency. As computer vision continues to advance, it is essential to strike a balance between innovation and ethical considerations.
+
