@@ -1,0 +1,5 @@
+Exploring Generative Adversarial Networks (GANs) and their application in computer vision, particularly in technologies like self-driving cars, was both fascinating and eye-opening. GANs, with their ability to generate realistic images through a dual model of a generator and discriminator, have revolutionized fields like image synthesis, data augmentation, and super-resolution. Their potential in enhancing computer vision systems, especially in autonomous driving, is immense.
+
+In self-driving cars, computer vision plays a crucial role in object detection, lane recognition, and decision-making. GANs can be used to simulate various driving conditions, generating synthetic data to train models in diverse scenarios that might be difficult to capture in real life. This can significantly improve the robustness and safety of autonomous vehicles.
+
+Although these three module did not have any labs or assignment but the theory gave us good knowledge about GAN, CV in Autonomous System and AI assistants.
